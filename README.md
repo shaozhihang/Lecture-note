@@ -1,6 +1,10 @@
 # Lecture-note
-This is a collection of my lecture note in SUSTech from 2024fall. 
+课堂笔记整理from 2024fall
 
-It's for undergratuate students who major in Data Science.
+开个坑
 
-It can be used as cheating papers or dictionary.
+### STA203 概率论基础
+
+### STA204 离散数学及其应用
+
+### STA217 数据科学导论
